@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Золото",
+	"description": "Редкий дорогой метал.",
+	"cost": 2.0,
+	"hardness": 4,
+	"color": "ffd700"
+}
