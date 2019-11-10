@@ -1,0 +1,9 @@
+{
+	"name": "азот",
+	"description": "Очень, ОЧЕНЬ холодная жижа.",
+	"temperature": 0,
+    "viscosity": 0,
+    "effect": "melting",
+    "color": "#42f5ec",
+	"heatCapacity": 10
+}
