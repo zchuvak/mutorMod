@@ -1,0 +1,20 @@
+{
+	"name": "Алмазный бур",
+	"description": "не",
+	"type": "Drill",
+	"size": 4,
+	"tier": 6,
+	"drillTime": 250,
+	"consumes": {
+		"power": 20.0,
+		"liquid": {
+			"liquid": "diamonde", 
+			"amount": 0.1,
+		}
+	},
+	"requirements": [
+		{ "item": "coper", "amount": 800 },
+	],
+	"category": "production",
+	"research": "laser-drill"
+}

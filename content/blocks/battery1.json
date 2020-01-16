@@ -1,0 +1,10 @@
+{
+	"type": "battery",
+	"name": "Алмазная батарея",
+	"size": 5,
+	"category": "power",
+	"requirements": [
+		{"item": "diamond", "amount": 200},
+	],
+	"consumes": { "powerBuffered": 15000000000000000000000000000000000000000000 }
+}
