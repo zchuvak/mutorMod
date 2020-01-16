@@ -1,0 +1,9 @@
+{
+	"name": "Аламаз",
+	"description": "жижа.",
+	"temperature": 980,
+    "viscosity": 0,
+    "effect": "melting",
+    "color": "#42f5ec",
+	"heatCapacity": 100
+}

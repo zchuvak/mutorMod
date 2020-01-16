@@ -1,0 +1,12 @@
+{
+	"type": "SolarGenerator",
+	"name": "Солнечная панель",
+	"description": "Improved version of large solar panel",
+	"size": 3,
+    "powerProduction": 999999999999,
+	"requirements": [
+		{"item": "diamond", "amount": 90},
+	],
+	"category": "power",
+	"research": "solar-panel-large"
+}

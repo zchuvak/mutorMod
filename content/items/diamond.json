@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Алмаз",
+	"description": "Редкий дорогой метал.",
+	"cost": 2.0,
+	"hardness": 5,
+	"color": "ffd700"
+}
